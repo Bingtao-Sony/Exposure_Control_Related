@@ -1,6 +1,6 @@
 ## Introduction
 
-This Python script provides a utility for converting hexadecimal numbers to decimal values, and performing exposure time calculations for imaging applications. It includes functions to convert hexadecimal numbers to decimal format and to calculate exposure times based on various parameters such as frame rate, maximum value, and clock time.
+This Python script provides a utility for converting hexadecimal numbers to decimal values, and performing exposure time calculations for imaging applications. It includes functions to convert hexadecimal numbers to decimal format under the format of U X.Y and to calculate exposure times based on various parameters such as frame rate, Vmax, Hmax.
 
 ## Requirements
 

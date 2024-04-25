@@ -1,3 +1,9 @@
+'''
+- V0.01 Initial realease 
+- only works for SP1H Line
+- has some minor issue (59.999999999 (60) will be rounded to 58)
+'''
+
 # user edit 
 LINE_LENGTH_OUT           = "0x1194  "
 FRAME_LENGTH_OUT          = "0x960   "

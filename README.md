@@ -16,8 +16,10 @@ This Python script provides a utility for converting hexadecimal numbers to deci
      - `frac_num`: The number of bits for the fractional part.
    - Returns:
      - The decimal representation of the hexadecimal number.
+
 2. **closest_smaller_even(number)**
    - This function takes a floating-point number as input and returns the closest smaller even integer.
+   - Note that in the latested version numbers like 5.99999999 will be treated as 6
    - Parameters:
      - `number`: The input floating-point number.
    - Returns
